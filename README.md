@@ -76,18 +76,18 @@ I'm a **Senior AI Engineer** with **6+ years of experience** building production
 
 ## 🚀 Featured Projects
 
-### 🎨 [Designs.AI — AI-Powered Design Platform](https://github.com/awais-devcodes)
+### 🎨 Designs.AI — AI-Powered Design Platform
 > Generative AI platform using LLMs and diffusion models for automated design creation and intelligent content suggestions.
 
 `OpenAI API` `LangChain` `Python` `RAG` `RabbitMQ` `AWS` `React`
 
 - ✅ Reduced content creation time by **60%** using OpenAI generative APIs
-- ✅ Built a LangChain-powered suggestion engine for context-aware recommendations
+- ✅ Built LangChain-powered suggestion engine for context-aware recommendations
 - ✅ Engineered async AI inference pipelines handling high-volume workloads
 
 ---
 
-### 📚 [GoSchoolBox — AI-Powered EdTech Platform](https://github.com/awais-devcodes)
+### 📚 GoSchoolBox — AI-Powered EdTech Platform
 > LLM-powered SaaS platform with AI tutoring automation and personalized learning systems supporting **1M+ users**.
 
 `LLMs` `OpenAI API` `RAG` `PostgreSQL` `GraphQL` `AWS` `Redis`
@@ -98,7 +98,7 @@ I'm a **Senior AI Engineer** with **6+ years of experience** building production
 
 ---
 
-### 🔍 [SeekSocial — AI Influencer Discovery Platform](https://github.com/awais-devcodes)
+### 🔍 SeekSocial — AI Influencer Discovery Platform
 > AI-driven influencer marketing platform using NLP and semantic search for intelligent brand-influencer matching.
 
 `NLP` `OpenAI Embeddings` `FAISS` `LangChain` `MongoDB` `RabbitMQ` `AWS`
@@ -112,10 +112,6 @@ I'm a **Senior AI Engineer** with **6+ years of experience** building production
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=awais-devcodes&show_icons=true&theme=default&hide_border=true&title_color=4F83FF&icon_color=4F83FF&text_color=2E2E2E&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awais-devcodes&layout=compact&hide_border=true&title_color=4F83FF&text_color=2E2E2E&bg_color=ffffff&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=awais-devcodes&hide_border=true&ring=4F83FF&fire=4F83FF&currStreakLabel=4F83FF)
 
@@ -138,6 +134,7 @@ I'm a **Senior AI Engineer** with **6+ years of experience** building production
 
 ## 📜 Certifications
 
+- 🏅 **Claude Code in Action** — Anthropic Education *(Jun 28, 2026)* — `NEW`
 - 🎓 **Generative AI: Working with Large Language Models** — LinkedIn Learning *(Jun 2026)*
 - 🎓 **AWS Certified Developer – Associate** — LinkedIn Learning *(Oct 2025)*
 - 🎓 **ChatGPT Prompt Engineering for Developers** — DeepLearning.AI *(Feb 2025)*
